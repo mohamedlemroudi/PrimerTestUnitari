@@ -1,0 +1,11 @@
+C:\Users\Moha\source\repos\TestNunit\TestNunit\bin\Debug\net8.0\TestNunit.deps.json
+C:\Users\Moha\source\repos\TestNunit\TestNunit\bin\Debug\net8.0\TestNunit.dll
+C:\Users\Moha\source\repos\TestNunit\TestNunit\bin\Debug\net8.0\TestNunit.pdb
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.AssemblyInfoInputs.cache
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.AssemblyInfo.cs
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.csproj.CoreCompileInputs.cache
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.dll
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\refint\TestNunit.dll
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.pdb
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\ref\TestNunit.dll
