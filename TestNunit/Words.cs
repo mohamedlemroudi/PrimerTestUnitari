@@ -15,12 +15,18 @@ namespace TestNunit
 
         public static int sumar(int a, int b)
         {
-            return a + b;
+            checked
+            {
+                return a + b;
+            }
         }
 
         public static int sumar(string a, string b)
         {
-            return Int32.Parse(a) + Int32.Parse(b);
+            checked
+            {
+                return Int32.Parse(a) + Int32.Parse(b);
+            }
         }
     }
 }

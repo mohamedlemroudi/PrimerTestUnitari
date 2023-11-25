@@ -9,3 +9,4 @@ C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.dll
 C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\refint\TestNunit.dll
 C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.pdb
 C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\ref\TestNunit.dll
+C:\Users\Moha\source\repos\TestNunit\TestNunit\obj\Debug\net8.0\TestNunit.sourcelink.json

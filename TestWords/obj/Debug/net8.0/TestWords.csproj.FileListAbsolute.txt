@@ -100,3 +100,4 @@ C:\Users\Moha\source\repos\TestNunit\TestWords\obj\Debug\net8.0\refint\TestWords
 C:\Users\Moha\source\repos\TestNunit\TestWords\obj\Debug\net8.0\TestWords.pdb
 C:\Users\Moha\source\repos\TestNunit\TestWords\obj\Debug\net8.0\TestWords.genruntimeconfig.cache
 C:\Users\Moha\source\repos\TestNunit\TestWords\obj\Debug\net8.0\ref\TestWords.dll
+C:\Users\Moha\source\repos\TestNunit\TestWords\obj\Debug\net8.0\TestWords.sourcelink.json
