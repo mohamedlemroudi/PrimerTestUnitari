@@ -88,6 +88,32 @@ namespace TestWords
         {
             Assert.Throws<OverflowException>(() => Words.sumar(int.MinValue, -1));
         }
+
+        // Sumar numero string amb null
+        [Test]
+        public void TestSumar_4_Null()
+        {
+            Assert.Throws<ArgumentNullException>(() => Words.sumar("4", null));
+        }
+
+        // Sumar dos nulls
+        [Test]
+        public void TestSumar_Null_Null()
+        {
+            Assert.Throws<ArgumentNullException>(() => Words.sumar(null, null));
+        }
+
+        [Test]
+        public void TestSumar_1a_2p9()
+        {
+            Assert.Throws<FormatException>(() => Words.sumar("1.a", "2,9"));
+        }
+
+        [Test]
+        public void TestSumar_Negative3p1_4()
+        {
+            Assert.Throws<FormatException>(() => Words.sumar("-3,1", "4"));
+        }
     }
 }
 
